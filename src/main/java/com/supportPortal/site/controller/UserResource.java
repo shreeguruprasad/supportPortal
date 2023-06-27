@@ -11,7 +11,7 @@ public class UserResource {
 
     @GetMapping("/home")
     public Object showUser(){
-        String st = new String("Applicationz");
+        String st = new String("Applicationzzzzzzzzzzz");
         return st;
     }
 }
